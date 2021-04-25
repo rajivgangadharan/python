@@ -1,4 +1,4 @@
-# Scripts for Scrum Masters
+# Utility scripts for Scrum Masters
 Python Scripts for Scrum Master
 
 1. barplot.py3 This script is for generating a bar plot of velocities and their mean
